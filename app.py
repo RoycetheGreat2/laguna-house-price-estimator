@@ -42,7 +42,7 @@ valid_cities = ["Alaminos", "Bay", "Biñan", "Cabuyao", "Calamba", "Calauan",
                 "San Pablo", "San Pedro", "Santa Cruz", "Santa Maria", "Santa Rosa"]
 
 st.set_page_config(page_title="Laguna House Price Estimator", page_icon="🏠")
-st.title("🏠 Laguna House Price Estimator")
+st.title("Laguna House Price Estimator")
 st.write("Estimate the price of a house in Laguna based on its features.")
 st.caption("Model trained on 713 real Lamudi listings | Accuracy: 87.2% (R² = 0.872)")
 
