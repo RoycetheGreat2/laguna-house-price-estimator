@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pandas
+scikit-learn
+xgboost
+streamlit
+joblib
+requests
+beautifulsoup4
