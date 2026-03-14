@@ -34,7 +34,6 @@ streamlit run app.py
 | Model | R² | MAE |
 |---|---|---|
 | Linear Regression | -5.136 | ₱13,358,746 |
-| Random Forest | 0.871 | ₱3,972,154 |
 | XGBoost | 0.855 | ₱3,959,831 |
 | **Final (Random Forest)** | **0.872** | **₱3,750,787** |
 
