@@ -3,7 +3,7 @@
 A machine learning web app that predicts house prices in Laguna, Philippines using real listing data scraped from Lamudi.
 
 ## Live Demo
-*Coming soon — deploying to Streamlit Cloud*
+[Try the app here] https://laguna-house-price-estimator-jwbceu9ag6tqhlmxyzuvfc.streamlit.app/
 
 ## What I Built
 - **Web scraper** using Selenium to collect 1,200+ real property listings from Lamudi.com.ph
