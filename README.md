@@ -1,4 +1,4 @@
-# 🏠 Laguna House Price Estimator
+# Laguna House Price Estimator
 
 A machine learning web app that predicts house prices in Laguna, Philippines using real listing data scraped from Lamudi.
 
