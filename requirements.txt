@@ -1,9 +1,7 @@
-selenium
-webdriver-manager
+streamlit==1.32.0
 pandas
 scikit-learn
 xgboost
-streamlit
 joblib
 requests
-beautifulsoup4
+altair==5.2.0
